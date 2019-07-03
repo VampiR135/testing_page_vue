@@ -84,7 +84,6 @@
                         </div>
                     </router-link>
             </div>
-            <img class="p-alternative-img" src="../../assets/img/detail_img.png" alt="" />
         </div>
     </div>
 
